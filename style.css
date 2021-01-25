@@ -1,0 +1,79 @@
+.header
+{
+    background-color: cadetblue;
+}
+.header h1
+{
+    color: white;
+    font-family: bold;
+    height: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.body
+{
+    height:80%;
+}
+.col
+{
+    padding: 100px;
+}
+.first
+{
+    background-color: thistle;
+}
+.second
+{
+    background-color: whitesmoke; 
+}
+.third
+{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.second p
+{
+    border: 3px gray solid;
+    border-radius: 3px;
+    background-color: gainsboro;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second textarea
+{
+    border: 3px gray solid;
+    border-radius: 3px;
+    background-color: wheat;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.chrono
+{
+    margin-bottom: 20px;
+}
+.chrono span
+{
+    border: 2px thistle solid;
+    border-radius: 5px;
+    font-size:40px;
+    background-color: gray;
+    padding: 4px;
+}
+.third button
+{
+    border-radius: 5px;
+    background-color: thistle;
+    font-size:20px;
+    padding: 10px;
+}
+.third button:hover
+{
+    border-radius: 5px;
+    background-color: gray;
+    padding: 4px;
+    color:black;
+    padding: 10px;
+}
